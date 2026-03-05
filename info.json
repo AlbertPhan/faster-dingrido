@@ -1,0 +1,9 @@
+{
+  "name": "faster-dingrido",
+  "version": "0.0.1",
+  "title": "Faster Dingrido",
+  "author": "albird125",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "pyalienlife"],
+  "description": "This mod makes Dingrido accelerate faster and reach a higher top speed to be on par with drinking the energy drink and just going mach 1.8 on concrete. Also adds vehicle snapping."
+}
