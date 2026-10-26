@@ -11,7 +11,7 @@ data:extend({
         type = "double-setting",
         name = "dingrido-rotation-snap-angle",
         setting_type = "startup",
-        default_value = 5,
+        default_value = 2,
         minimum_value = 0,
         maximum_value = 360,
     },
